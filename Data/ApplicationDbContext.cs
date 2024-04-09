@@ -29,7 +29,7 @@ namespace eCommerce_WebApp.Data
         }
 
 
-        //Add your tables, See below
+        //Add your tables, See below set table names
         public DbSet<Actor> Actors { get; set; }
 
         public DbSet<Movie> Movies { get; set; }
